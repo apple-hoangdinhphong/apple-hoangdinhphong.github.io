@@ -1,0 +1,11 @@
+Origin: Apple Phong
+Label: Apple Phong
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Say Hello To The Future
+MD5Sum:
+ 889cfa7af19e22a29b30bb85487aa00d 134390 Packages
+ f19734bff4bbcda2c8a7324e84bbb767 27208 Packages.bz2
